@@ -10,3 +10,7 @@ Steps to run the application "app.py" is written inside the file itself.<br>
 <H3> Prerequisites.docx File </H3>
 Contains reference links to Hugging face and ChatGPT
 <hr>
+
+<H3> Presentation.ppsx File </H3>
+Powerpoint file to explain about Generative AI
+<hr>
