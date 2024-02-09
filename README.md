@@ -14,3 +14,7 @@ Contains reference links to Hugging face and ChatGPT
 <H3> Presentation.ppsx File </H3>
 Powerpoint file to explain about Generative AI
 <hr>
+
+<h3>Youtube (Powerpoint show)</h3> 
+https://youtu.be/mp8htAKRHfo
+<hr>
