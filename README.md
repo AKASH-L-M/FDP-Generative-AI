@@ -16,5 +16,5 @@ Powerpoint file to explain about Generative AI
 <hr>
 
 <h3>Youtube (Powerpoint show)</h3> 
-https://youtu.be/mp8htAKRHfo
+https://youtu.be/dzbS7rvkKEk
 <hr>
